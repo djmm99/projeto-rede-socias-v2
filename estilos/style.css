@@ -49,7 +49,7 @@ iframe#tela {
 
 section#redes-sociais {
     height: 100%;
-    margin-right: 20px;
+    margin-right: 100px;
 
     display: flex;
     flex-flow: row nowrap;
