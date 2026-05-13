@@ -48,12 +48,16 @@ iframe#tela {
 } 
 
 section#redes-sociais {
-    text-align: right;
+    height: 100%;
+    margin-right: 20px;
+
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: flex-end;
+    align-items: center;
 }
 
 section#redes-sociais > div {
-    padding-top: 260px;
-    margin-right: 20px;
     
 }
 
